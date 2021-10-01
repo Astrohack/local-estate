@@ -1,0 +1,19 @@
+{
+    "es": {
+        "sign_in": "Inicia sesión",
+        "services": "Servicios",
+        "register": "Registrar",
+        "gallery": "Galería",
+        "how-it-works": "¿Cómo funciona?",
+        "contact": "Contacto",
+        "see-our-work": "Ver nuestro trabajo",
+        "hiw-desc":"¡ES FÁCIL! RESERVA EL SERVICIO QUE NECESITAS PARA PROMOVER TU LISTADO.",
+        "address":"Dirección",
+        "size":"Tamaño",
+        "type":"Escribe",
+        "lets-start":"Empecemos",
+        "enter-size":"Introduzca un tamaño en m2",
+        "enter-type":"Ingrese un tipo",
+        "enter-city":"Entrar en una ciudad"
+    }
+}

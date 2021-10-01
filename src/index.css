@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+body {
+  margin: 0;
+  text-shadow: 2px 2px rgba(0, 255, 255, 0.664);
+  font-size: large;
+  font-style: bold;
+  font-family: "Poppins",  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logo{
+  width: 7em;
+  height: 6em;
+}
+
+.topbar-icon {
+  width: 1.5em;
+  height:  1.5em;
+}
+
+.site-header{
+  position: absolute;
+
+  width: 100%;
+}
+
+.site-header_container{
+  display: flex;
+  margin: 0 ;
+  width: 100%;
+}
+.site-header_navContainer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 12px 12px;
+  min-height: 56px;
+  width: 100%;
+  background-color: transparent;
+}
+#gallery {
+  text-decoration: none;
+  outline: none;
+}
+.siteHeaderNav {
+  display: flex;
+}
+
+.siteHeaderNavItem {
+  padding: 10px 20px;
+  user-select: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.siteHeaderNavItem:hover {
+  cursor: default;
+  background-color: rgba(0, 255, 255, 0.664);
+  border-radius: 25px;
+}
+
+
+.sign-in {
+  border-radius: 12px;
+  background: aqua;
+  opacity: 4;
+  padding: 5px 13px ;
+}
+
+.leftNavContainer{
+  display: flex;
+  flex-direction: row;
+}
+
+div {
+  user-select: none;
+}

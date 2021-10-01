@@ -1,0 +1,8 @@
+.embeded-vr_tour{
+    margin: 1em;
+}
+
+.vrTour-container{
+    display: flex;
+    flex-direction: column;
+}

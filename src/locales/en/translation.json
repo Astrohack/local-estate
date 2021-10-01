@@ -1,0 +1,19 @@
+{
+    "en": {
+        "sign_in": "Sign In",
+        "services": "Services",
+        "gallery": "Gallery",
+        "register": "Register",
+        "how-it-works": "How does it works?",
+        "contact": "Contact",
+        "see-our-work":"See our work",
+        "hiw-desc":"IT’S EASY! BOOK THE SERVICE YOU NEED TO PROMOTE YOUR LISTING.",
+        "address":"Address",
+        "size":"Size",
+        "type":"Type",
+        "lets-start":"Let's start",
+        "enter-size":"Enter a size in m2",
+        "enter-type":"Enter a type",
+        "enter-city":"Enter a City"
+    }
+}

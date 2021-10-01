@@ -1,0 +1,50 @@
+.wrapper {
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+}
+
+.step-wrapper:nth-child(2n +1){
+    background-color: rgb(219, 255, 255);
+}
+
+.step-wrapper:nth-child(1n+2):after{
+    content: url("../arrow.png");
+    height: 0em;
+    transform: scale(0.1) translateY(-75em);
+    position: absolute;
+}
+
+.description {
+    font-size: 1em;
+}
+
+.title {
+    font-size: 4em;
+}
+
+.description, .title {
+    display: flex;
+    justify-content: center;   
+}
+
+.heading{
+    margin-top: 4em;
+    margin-bottom: 4em;
+}
+
+.embeded-vr_tour{
+    display: flex;
+    justify-content: center;
+   
+}
+iframe{
+    width: 853px;
+    height: 480px;
+}
+
+.step-wrapper{
+    padding: 5em 0;
+    display: flex;
+    justify-content: center;
+}

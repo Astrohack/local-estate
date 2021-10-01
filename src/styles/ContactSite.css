@@ -1,0 +1,15 @@
+.contact-container{
+    border-radius: 25px;
+    padding: 5em;
+    background-color: aquamarine;
+}
+
+.contact-wrapper{    
+    margin-top: 12em;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    font-size: 4em;
+}
